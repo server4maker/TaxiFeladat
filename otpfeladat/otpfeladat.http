@@ -1,0 +1,6 @@
+@otpfeladat_HostAddress = http://localhost:5153
+
+GET {{otpfeladat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
